@@ -17,5 +17,3 @@ This project provides a web-based tool to detect diabetic retinopathy using deep
 - Pretrained VGG16 CNN model
 - Fine-tuned with augmented retina images
 - Class-weighted loss handling to balance dataset
-
-## 📁 Directory Structure
