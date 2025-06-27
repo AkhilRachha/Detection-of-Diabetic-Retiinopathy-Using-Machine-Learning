@@ -1,2 +1,1 @@
-# Detection-of-Diabetic-Retiinopathy
-Machine Learning
+# Detection-of-Diabetic-Retiinopathy Using Machine Learning
